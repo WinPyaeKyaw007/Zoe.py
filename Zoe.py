@@ -132,5 +132,5 @@ def main():
 
     application.run_polling()
 
-if name == "main":
+if __name__ == "__main__":
     main()
